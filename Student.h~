@@ -1,0 +1,9 @@
+using namespace std;
+
+class Student {
+ public:
+  Student();
+  int getValue();
+ private:
+  int id;
+}

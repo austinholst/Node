@@ -1,5 +1,0 @@
-#inlclude <iostream>
-
-Student::student() {
-  id = 5;
-}
